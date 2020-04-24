@@ -6,12 +6,15 @@
 - Min 1 interface
 - Must have GUI
 
-# Ideas
+# Snake Game
 - ## Classes
-	- Board Class (GUI)
+	- Board (GUI)
 	- Game Logic Interface
+	- 
 	- Tile Class (Inheritance)
-		- X Tile Class
-		- O Tile Class
+		- User Class
+		- Board Class
+		- Tile Class
+		- Keyboard Class
 	- Leaderboard Class
 	
